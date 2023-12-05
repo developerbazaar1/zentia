@@ -1,0 +1,5 @@
+[19-Oct-2022 15:43:00 UTC] PHP Notice:  Undefined variable: factory in /home/pragyadbtechserv/public_html/zentia/database/factories/UserFactory.php on line 20
+[19-Oct-2022 15:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/pragyadbtechserv/public_html/zentia/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/database/factories/UserFactory.php on line 20

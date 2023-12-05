@@ -1,0 +1,4 @@
+[19-Oct-2022 15:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/pragyadbtechserv/public_html/zentia/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/database/seeds/DatabaseSeeder.php on line 5

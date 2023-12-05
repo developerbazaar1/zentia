@@ -1,0 +1,92 @@
+[05-Aug-2022 22:55:07 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php on line 7
+[05-Aug-2022 22:55:08 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php on line 7
+[05-Aug-2022 22:55:08 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:09:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:09:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:10:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[29-Jan-2023 16:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7
+[16-Oct-2023 21:01:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/demodbtechserver/public_html/zentia/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demodbtechserver/public_html/zentia/tests/TestCase.php on line 7

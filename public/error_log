@@ -1,0 +1,230 @@
+[01-Aug-2022 12:26:27 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/Http/Controllers/Auth/RegisterController.php on line 13
+[16-Aug-2022 12:24:26 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:24:41 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:25:11 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:25:26 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/Europe' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:25:55 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:26:36 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:28:57 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:28:59 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:30:58 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:31:00 Europe/Berlin] PHP Notice:  date_default_timezone_set(): Timezone ID 'http://worldtimeapi.org/api/timezone/America/Argentina/Salta' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:01:11 Europe/London] PHP Notice:  date_default_timezone_set(): Timezone ID '&quot;http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:01:15 Europe/London] PHP Notice:  date_default_timezone_set(): Timezone ID '&quot;http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:01:16 Europe/London] PHP Notice:  date_default_timezone_set(): Timezone ID '&quot;http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:01:30 Europe/London] PHP Notice:  date_default_timezone_set(): Timezone ID '&quot;http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[16-Aug-2022 12:01:32 Europe/London] PHP Notice:  date_default_timezone_set(): Timezone ID '&quot;http://worldtimeapi.org/api/timezone' is invalid in /home/mboeqrle/pragya.dbtechserver.online/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[22-Sep-2022 11:40:23 Europe/Brussels] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/pragyadbtechserv/public_html/zentia/app/Http/Controllers/UserController.php on line 190
+[27-Sep-2022 13:00:42 Europe/Brussels] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/pragyadbtechserv/public_html/zentia/app/Http/Controllers/UserController.php on line 193
+[27-Sep-2022 13:00:56 Europe/Brussels] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/pragyadbtechserv/public_html/zentia/app/Http/Controllers/UserController.php on line 193
+[27-Sep-2022 13:01:12 Europe/Brussels] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/pragyadbtechserv/public_html/zentia/app/Http/Controllers/UserController.php on line 193
+[19-Jun-2023 08:59:23 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[16-Jul-2023 11:28:41 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[16-Jul-2023 15:37:35 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Jul-2023 23:09:21 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Jul-2023 23:09:21 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Jul-2023 23:09:21 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Jul-2023 23:09:21 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Jul-2023 13:54:07 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Jul-2023 08:54:59 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Jul-2023 08:55:00 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Jul-2023 08:41:24 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[02-Aug-2023 11:55:59 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[09-Aug-2023 16:52:44 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[10-Aug-2023 07:36:47 Europe/Brussels] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(571): include('/home/pragyadbt...')
+#2 /home/pragyadbtechserv/public_html/zentia/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/pragyadbtechserv/public_html/zentia/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/pragyadbtechserv/public_html/zentia/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11

@@ -1,0 +1,284 @@
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/broadcasting.php on line 18
+[05-Aug-2022 22:55:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[05-Aug-2022 22:58:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/config/app.php on line 16
+[19-Oct-2022 15:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/database.php on line 18
+[19-Oct-2022 15:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/database.php on line 18
+[19-Oct-2022 15:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/database.php on line 18
+[19-Oct-2022 15:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/database.php on line 18
+[19-Oct-2022 15:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php on line 16
+[19-Oct-2022 15:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php on line 16
+[19-Oct-2022 15:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php on line 16
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/filesystems.php on line 16
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pragyadbtechserv/public_html/zentia/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/view.php on line 17
+[19-Oct-2022 15:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pragyadbtechserv/public_html/zentia/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/view.php on line 17
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/cache.php on line 21
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/cache.php on line 21
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/session.php on line 21
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pragyadbtechserv/public_html/zentia/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/view.php on line 17
+[19-Oct-2022 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/database.php on line 18
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/cache.php on line 21
+[19-Oct-2022 15:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/cache.php on line 21
+[19-Oct-2022 15:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/mail.php on line 16
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php on line 18
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php on line 18
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/logging.php on line 20
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php on line 18
+[19-Oct-2022 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php on line 18
+[19-Oct-2022 15:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pragyadbtechserv/public_html/zentia/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/view.php on line 17
+[19-Oct-2022 15:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pragyadbtechserv/public_html/zentia/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/view.php on line 17
+[19-Oct-2022 15:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/broadcasting.php on line 18
+[19-Oct-2022 15:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/queue.php on line 16
+[19-Oct-2022 15:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/queue.php on line 16
+[19-Oct-2022 15:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/services.php on line 18
+[19-Oct-2022 15:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/services.php on line 18
+[19-Oct-2022 15:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/services.php on line 18
+[19-Oct-2022 15:38:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/queue.php on line 16
+[19-Oct-2022 15:38:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/services.php on line 18
+[19-Oct-2022 15:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/hashing.php on line 32
+[19-Oct-2022 15:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/services.php on line 18
+[19-Oct-2022 15:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/app.php on line 16
+[19-Oct-2022 15:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/session.php on line 21
+[19-Oct-2022 15:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pragyadbtechserv/public_html/zentia/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/pragyadbtechserv/public_html/zentia/config/session.php on line 21
